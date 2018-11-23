@@ -1,0 +1,30 @@
+# Syntax Coloring Map EWMAcumStiction
+#////////////////////////////////////
+
+
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+EWMA	KEYWORD1
+EWMAcumStiction	KEYWORD1
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+startup	KEYWORD2
+signal	KEYWORD2
+read	KEYWORD2	
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+
+
+
+
