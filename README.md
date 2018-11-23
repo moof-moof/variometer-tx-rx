@@ -1,8 +1,4 @@
-
-
-
-
-#Variometer TX RX  
+##Variometer TX RX  
  
 This is pair of Arduiono sketches for generating, sending and receiving a variometer signal from a model glider to ground, using wireless UART serial communication via XBee technology. 
 
