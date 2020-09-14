@@ -18,7 +18,7 @@ The non-blocking Tone library (by Brett Hagman) is now used instead of the block
 
 Arduino IDE version 0023 was used when developing these sketches. They may or may not work "as is" with version 1.0 and later, but this has not been tested.
 
-Link to project description: https://sites.google.com/site/xnebmisc/home/vario-project-3
+Link to project description: http://xneb.org/mabe/xnebmisc/home/vario-project-3.html or https://sites.google.com/view/xneb-project-logs/home/vario-project-3
 
 ![](img/v3_C-60.jpg) 
 
